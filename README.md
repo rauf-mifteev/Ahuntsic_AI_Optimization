@@ -32,6 +32,6 @@ Assurez-vous que les dépendances sont installées dans votre environnement et l
 ```bash
 pip install pulp matplotlib numpy jupyter
 jupyter notebook
-
+```
 
 Ouvrez le fichier AI_TP2.ipynb et exécutez les cellules séquentiellement de haut en bas pour charger les données partagées, résoudre les algorithmes, et générer les graphiques finaux.
