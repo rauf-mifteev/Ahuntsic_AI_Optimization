@@ -11,7 +11,7 @@ En partant d'un bassin de 8 joueurs candidats, j'ai structuré l'analyse en **4 
 | **Partie 1** | **Programmation linéaire (PuLP)** : Formulation mathématique et résolution exacte. | **Solution optimale garantie** |
 | **Partie 2** | **Algorithme glouton** : Implémentation de 3 stratégies locales (meilleur score, ratio score/salaire, ratio score/poids). | Rapide, mais optimum non garanti |
 | **Partie 3** | **Programmation dynamique** : Implémentation récursive (naïve vs mémoïsée). | Réduction de la complexité de O(2^n) à linéaire |
-| **Partie 4** | **Analyse visuelle** : Génération de 3 graphiques comparatifs de performance. | Validation visuelle avec Matplotlib |
+| **Partie 4** | **Analyse visuelle** : Génération de 4 graphiques comparatifs de performance. | Validation visuelle avec Matplotlib |
 
 L'objectif principal est de mettre en pratique et de mesurer les compromis entre la force brute, les heuristiques rapides (glouton) et les solutions mathématiques optimales.
 
